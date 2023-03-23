@@ -7,11 +7,11 @@ public class Main {
 
         System.out.println("Hello world");
 
-        Multiple mult = new Multiple();
-        mult.main();
+        //Multiple mult = new Multiple();
+        //mult.main();
 
-        Info info = new Info();
-        info.main();
+        //Info info = new Info();
+        //info.main();
     }
 
 }
